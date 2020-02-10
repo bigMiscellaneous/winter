@@ -3,7 +3,6 @@ package Annot;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
-@Annotion(className = "Annot.Person",methodName = "show")
 public class Demo {
 
     public static void main(String[] args) throws ClassNotFoundException, IllegalAccessException, InstantiationException, NoSuchMethodException, InvocationTargetException {
